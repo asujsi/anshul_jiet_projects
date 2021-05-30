@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.card {
+    display: inline-block;
+    width: 20%;
+    padding: 1%;
+    border-style: solid;
+    border-color: #93B7BE;
+    margin: 3%;
+    background-color: #93B7BE;
+}
+
+.header {
+    width: 100%;
+    background-color: #454545;
+    font-size: x-large;
+    padding: 1%;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    width: 100%;
+    padding: 2%;
+}
+
+a {
+    text-decoration: none;
+    color: #F1FFFA;
+    padding-left: 2%;
+}
+
+button {
+    font-size: large;
+    padding: 2% 5%;
+    margin: 2%;
+    background-color: white
+}
